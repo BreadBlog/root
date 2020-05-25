@@ -1,0 +1,9 @@
+[submodule "core"]
+	path = core
+	url = git@github.com:BreadBlog/core.git
+[submodule "web"]
+	path = web
+        url = git@github.com:BreadBlog/web.git
+[submodule ".secrets"]
+	path = .secrets
+	url = git@github.com:BreadBlog/secrets.git
